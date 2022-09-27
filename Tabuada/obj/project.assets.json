@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Generation\\Documents\\atividade C#\\Lista 4\\Tabuada\\Tabuada\\Tabuada.csproj",
+      "projectUniqueName": "C:\\Users\\Generation\\Documents\\atividade\\Lista 4\\Tabuada\\Tabuada\\Tabuada.csproj",
       "projectName": "Tabuada",
-      "projectPath": "C:\\Users\\Generation\\Documents\\atividade C#\\Lista 4\\Tabuada\\Tabuada\\Tabuada.csproj",
+      "projectPath": "C:\\Users\\Generation\\Documents\\atividade\\Lista 4\\Tabuada\\Tabuada\\Tabuada.csproj",
       "packagesPath": "C:\\Users\\Generation\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Generation\\Documents\\atividade C#\\Lista 4\\Tabuada\\Tabuada\\obj\\",
+      "outputPath": "C:\\Users\\Generation\\Documents\\atividade\\Lista 4\\Tabuada\\Tabuada\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Generation\\AppData\\Roaming\\NuGet\\NuGet.Config",
